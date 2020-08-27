@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-weather_test_ios/Pods-weather_test_ios-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework
